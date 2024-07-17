@@ -1,0 +1,30 @@
+#profile-content {
+    padding: 20px;
+  }
+  
+  .profile-details {
+    margin-bottom: 20px;
+  }
+  
+  .profile-details form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .profile-details label {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  .profile-details input,
+  .profile-details textarea {
+    padding: 10px;
+    margin-top: 5px;
+  }
+  
+  .profile-details button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  

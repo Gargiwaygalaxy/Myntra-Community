@@ -1,0 +1,43 @@
+.post-form {
+    margin-bottom: 20px;
+  }
+  
+  .post-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .post-form button {
+    padding: 10px 20px;
+  }
+  
+  .posts {
+    margin-top: 20px;
+  }
+  
+  .post {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .post h3 {
+    margin-top: 0;
+  }
+  
+  .post .like-btn,
+  .post .comment-btn {
+    margin-right: 10px;
+  }
+  
+  .comments {
+    margin-top: 10px;
+  }
+  
+  .comment {
+    padding-left: 20px;
+    border-left: 2px solid #ccc;
+    margin-top: 5px;
+  }
+  
