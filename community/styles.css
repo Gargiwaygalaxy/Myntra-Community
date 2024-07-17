@@ -95,6 +95,9 @@ section {
     flex-direction: column;
     margin-bottom: 20px;
 }
+#post-popup-btn{
+    background-color:#ff1493;
+}
 
 #post-text {
     padding: 10px;
